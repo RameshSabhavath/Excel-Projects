@@ -1,4 +1,4 @@
-# 📊 Advanced Excel BI Dashboards – Overview
+## 📊 Advanced Excel BI Dashboards – Overview
 
 Developed end-to-end business intelligence dashboards in Microsoft Excel, analyzing multi-million revenue datasets across products, sellers, payment modes, and geographic regions. Applied data cleaning, aggregation, KPI tracking, trend analysis, and rolling period comparisons to extract actionable insights.
 
